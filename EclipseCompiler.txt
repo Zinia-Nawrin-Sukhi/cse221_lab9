@@ -1,0 +1,316 @@
+24 Nov 2019 7:53:39 GMT: Log 'EclipseCompiler.txt' opened: 24 Nov 2019 7:53:39 GMT with name E:\cse221\lab\lab9\EclipseCompiler.txt
+24 Nov 2019 7:53:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1ae75f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@47a7a
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 7:53:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5730d4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 7:53:47 GMT: Compiler call returned
+24 Nov 2019 7:54:41 GMT: diagnostics = javax.tools.DiagnosticCollector@17ab74
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@126dddc
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab1\CreateGraph.java]
+24 Nov 2019 7:54:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@173c52f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;E:\cse221\lab\lab1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 7:54:42 GMT: Compiler call returned
+24 Nov 2019 7:54:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e8c77
+24 Nov 2019 7:54:42 GMT:  Kind = WARNING
+24 Nov 2019 7:54:42 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:14:00 GMT: Log 'EclipseCompiler.txt' opened: 24 Nov 2019 8:14:00 GMT with name E:\cse221\lab\lab9\EclipseCompiler.txt
+24 Nov 2019 8:14:08 GMT: diagnostics = javax.tools.DiagnosticCollector@4064c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50b909
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:14:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f75564' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:14:09 GMT: Compiler call returned
+24 Nov 2019 8:14:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1aa074
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@43929f
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab1\CreateGraph.java]
+24 Nov 2019 8:14:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ea5157' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;E:\cse221\lab\lab1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:14:53 GMT: Compiler call returned
+24 Nov 2019 8:14:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8331db
+24 Nov 2019 8:14:53 GMT:  Kind = WARNING
+24 Nov 2019 8:14:53 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:15:16 GMT: diagnostics = javax.tools.DiagnosticCollector@82ca2e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b281aa
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java]
+24 Nov 2019 8:15:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d4297' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;E:\cse221\lab\lab1;E:\cse221\lab\lab3;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:15:16 GMT: Compiler call returned
+24 Nov 2019 8:15:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a035d5
+24 Nov 2019 8:15:16 GMT:  Kind = WARNING
+24 Nov 2019 8:15:16 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:16:58 GMT: diagnostics = javax.tools.DiagnosticCollector@12aa909
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3da169
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java]
+24 Nov 2019 8:16:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8455b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;E:\cse221\lab\lab3;E:\cse221\lab\lab1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:16:58 GMT: Compiler call returned
+24 Nov 2019 8:16:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@133ebf3
+24 Nov 2019 8:16:58 GMT:  Kind = WARNING
+24 Nov 2019 8:16:58 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:20:41 GMT: diagnostics = javax.tools.DiagnosticCollector@176d07d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6b43d1
+fileObjects = [E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java]
+24 Nov 2019 8:20:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3f29e2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab9;E:\cse221\lab\lab3;E:\cse221\lab\lab1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:20:42 GMT: Compiler call returned
+24 Nov 2019 8:20:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d15f7
+24 Nov 2019 8:20:42 GMT:  Kind = WARNING
+24 Nov 2019 8:20:42 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:22:56 GMT: diagnostics = javax.tools.DiagnosticCollector@14e3a9b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@142735d
+fileObjects = [E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:22:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14a08c6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab3;E:\cse221\lab\lab1;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:22:57 GMT: Compiler call returned
+24 Nov 2019 8:22:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@844097
+24 Nov 2019 8:22:57 GMT:  Kind = WARNING
+24 Nov 2019 8:22:57 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:23:28 GMT: diagnostics = javax.tools.DiagnosticCollector@1b69ad5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e8759e
+fileObjects = [E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:23:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6b9973' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab3;E:\cse221\lab\lab1;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:23:28 GMT: Compiler call returned
+24 Nov 2019 8:23:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b9c8d
+24 Nov 2019 8:23:28 GMT:  Kind = WARNING
+24 Nov 2019 8:23:28 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:23:53 GMT: diagnostics = javax.tools.DiagnosticCollector@e48d02
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@84390c
+fileObjects = [E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:23:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@dbefe0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab3;E:\cse221\lab\lab1;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:23:53 GMT: Compiler call returned
+24 Nov 2019 8:23:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a84bf1
+24 Nov 2019 8:23:53 GMT:  Kind = WARNING
+24 Nov 2019 8:23:53 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:24:35 GMT: diagnostics = javax.tools.DiagnosticCollector@714c53
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11f93aa
+fileObjects = [E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:24:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@b85bbb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab3;E:\cse221\lab\lab1;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:24:35 GMT: Compiler call returned
+24 Nov 2019 8:24:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e58c87
+24 Nov 2019 8:24:35 GMT:  Kind = WARNING
+24 Nov 2019 8:24:35 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:25:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1f437f6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@24100a
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab9\KnapSack.java, E:\cse221\lab\lab3\BFS.java]
+24 Nov 2019 8:25:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a98fa2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab9;E:\cse221\lab\lab3;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:25:58 GMT: Compiler call returned
+24 Nov 2019 8:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1c9d7
+24 Nov 2019 8:25:58 GMT:  Kind = WARNING
+24 Nov 2019 8:25:58 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:30:43 GMT: diagnostics = javax.tools.DiagnosticCollector@bd096c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a482d1
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:30:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e56011' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:30:43 GMT: Compiler call returned
+24 Nov 2019 8:30:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@194c2d4
+24 Nov 2019 8:30:43 GMT:  Kind = WARNING
+24 Nov 2019 8:30:43 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:33:42 GMT: diagnostics = javax.tools.DiagnosticCollector@baca4e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b0b25e
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:33:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14b8ce6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:33:43 GMT: Compiler call returned
+24 Nov 2019 8:33:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fa8bcd
+24 Nov 2019 8:33:43 GMT:  Kind = WARNING
+24 Nov 2019 8:33:43 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:34:51 GMT: diagnostics = javax.tools.DiagnosticCollector@18e60d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@171e911
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:34:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@288622' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:34:51 GMT: Compiler call returned
+24 Nov 2019 8:34:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d12ff8
+24 Nov 2019 8:34:51 GMT:  Kind = WARNING
+24 Nov 2019 8:34:51 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:35:07 GMT: diagnostics = javax.tools.DiagnosticCollector@54cff6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e9978f
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:35:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14fe5b0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:35:08 GMT: Compiler call returned
+24 Nov 2019 8:35:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af4073
+24 Nov 2019 8:35:08 GMT:  Kind = WARNING
+24 Nov 2019 8:35:08 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:39:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1ea3f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fdd11f
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:39:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15c139e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:39:48 GMT: Compiler call returned
+24 Nov 2019 8:39:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5b0dc
+24 Nov 2019 8:39:48 GMT:  Kind = WARNING
+24 Nov 2019 8:39:48 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:40:03 GMT: diagnostics = javax.tools.DiagnosticCollector@12a9c55
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e0450e
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:40:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d0506' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:40:03 GMT: Compiler call returned
+24 Nov 2019 8:40:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@193c956
+24 Nov 2019 8:40:03 GMT:  Kind = WARNING
+24 Nov 2019 8:40:03 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:41:50 GMT: diagnostics = javax.tools.DiagnosticCollector@1d55e59
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9346c2
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:41:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a8699e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:41:50 GMT: Compiler call returned
+24 Nov 2019 8:41:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12e3db8
+24 Nov 2019 8:41:50 GMT:  Kind = WARNING
+24 Nov 2019 8:41:50 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:42:04 GMT: diagnostics = javax.tools.DiagnosticCollector@d1727d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@111fdec
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:42:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@502403' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:42:04 GMT: Compiler call returned
+24 Nov 2019 8:42:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a82b4e
+24 Nov 2019 8:42:04 GMT:  Kind = WARNING
+24 Nov 2019 8:42:04 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:46:00 GMT: diagnostics = javax.tools.DiagnosticCollector@1e6cf2a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1aa389a
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:46:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ab29f1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:46:00 GMT: Compiler call returned
+24 Nov 2019 8:46:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170a023
+24 Nov 2019 8:46:00 GMT:  Kind = WARNING
+24 Nov 2019 8:46:00 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:50:03 GMT: diagnostics = javax.tools.DiagnosticCollector@1419680
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1029d1f
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:50:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fd461b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:50:03 GMT: Compiler call returned
+24 Nov 2019 8:50:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56a65e
+24 Nov 2019 8:50:03 GMT:  Kind = WARNING
+24 Nov 2019 8:50:03 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:50:35 GMT: diagnostics = javax.tools.DiagnosticCollector@118cb9b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@35fc5d
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:50:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@62b800' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:50:35 GMT: Compiler call returned
+24 Nov 2019 8:50:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@669ba5
+24 Nov 2019 8:50:35 GMT:  Kind = WARNING
+24 Nov 2019 8:50:35 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:50:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1af3858
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8db169
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:50:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bbf1d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:50:48 GMT: Compiler call returned
+24 Nov 2019 8:50:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c48f5f
+24 Nov 2019 8:50:48 GMT:  Kind = WARNING
+24 Nov 2019 8:50:48 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:51:45 GMT: diagnostics = javax.tools.DiagnosticCollector@85ccee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@29a4f9
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:51:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1faeb74' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:51:45 GMT: Compiler call returned
+24 Nov 2019 8:51:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@920687
+24 Nov 2019 8:51:45 GMT:  Kind = WARNING
+24 Nov 2019 8:51:45 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 8:54:40 GMT: diagnostics = javax.tools.DiagnosticCollector@2ee058
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a81ae5
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 8:54:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b0fb5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 8:54:40 GMT: Compiler call returned
+24 Nov 2019 8:54:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11cc989
+24 Nov 2019 8:54:40 GMT:  Kind = WARNING
+24 Nov 2019 8:54:40 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:02:48 GMT: diagnostics = javax.tools.DiagnosticCollector@354c9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c8aa13
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:02:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d13e6e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:02:48 GMT: Compiler call returned
+24 Nov 2019 9:02:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a26f4
+24 Nov 2019 9:02:48 GMT:  Kind = WARNING
+24 Nov 2019 9:02:48 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:02:58 GMT: diagnostics = javax.tools.DiagnosticCollector@a9f7a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@81eb58
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:02:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@373f97' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:02:58 GMT: Compiler call returned
+24 Nov 2019 9:02:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1833723
+24 Nov 2019 9:02:58 GMT:  Kind = WARNING
+24 Nov 2019 9:02:58 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:05:22 GMT: diagnostics = javax.tools.DiagnosticCollector@5249bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@123f885
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:05:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1af5964' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:05:23 GMT: Compiler call returned
+24 Nov 2019 9:05:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7693d2
+24 Nov 2019 9:05:23 GMT:  Kind = WARNING
+24 Nov 2019 9:05:23 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:07:08 GMT: diagnostics = javax.tools.DiagnosticCollector@19ebf10
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@69c0a7
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:07:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@151090e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:07:08 GMT: Compiler call returned
+24 Nov 2019 9:07:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1af6235
+24 Nov 2019 9:07:08 GMT:  Kind = WARNING
+24 Nov 2019 9:07:08 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:07:25 GMT: diagnostics = javax.tools.DiagnosticCollector@13b18aa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1056bdc
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:07:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c00446' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:07:26 GMT: Compiler call returned
+24 Nov 2019 9:07:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176eb13
+24 Nov 2019 9:07:26 GMT:  Kind = WARNING
+24 Nov 2019 9:07:26 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:10:48 GMT: diagnostics = javax.tools.DiagnosticCollector@19d48e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1717db1
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:10:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b0f31b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:10:48 GMT: Compiler call returned
+24 Nov 2019 9:10:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11762ff
+24 Nov 2019 9:10:48 GMT:  Kind = WARNING
+24 Nov 2019 9:10:48 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:10:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1fd02c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b540f6
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:10:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@169ae6d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:10:58 GMT: Compiler call returned
+24 Nov 2019 9:10:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a14a3
+24 Nov 2019 9:10:58 GMT:  Kind = WARNING
+24 Nov 2019 9:10:58 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:13:36 GMT: diagnostics = javax.tools.DiagnosticCollector@14b3e5b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f0901c
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:13:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13cafeb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:13:36 GMT: Compiler call returned
+24 Nov 2019 9:13:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f76e9f
+24 Nov 2019 9:13:36 GMT:  Kind = WARNING
+24 Nov 2019 9:13:36 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:14:46 GMT: diagnostics = javax.tools.DiagnosticCollector@47dc0c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@540916
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:14:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fc3b70' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:14:46 GMT: Compiler call returned
+24 Nov 2019 9:14:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9a9e0b
+24 Nov 2019 9:14:46 GMT:  Kind = WARNING
+24 Nov 2019 9:14:46 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:15:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1afa7b2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc762e
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:15:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1987230' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:15:27 GMT: Compiler call returned
+24 Nov 2019 9:15:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4de0e2
+24 Nov 2019 9:15:27 GMT:  Kind = WARNING
+24 Nov 2019 9:15:27 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:22:49 GMT: diagnostics = javax.tools.DiagnosticCollector@1ac1573
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e49a7a
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:22:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cc211b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:22:49 GMT: Compiler call returned
+24 Nov 2019 9:22:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25d071
+24 Nov 2019 9:22:49 GMT:  Kind = WARNING
+24 Nov 2019 9:22:49 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:23:55 GMT: diagnostics = javax.tools.DiagnosticCollector@820a62
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e8bce4
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:23:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b416aa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:23:55 GMT: Compiler call returned
+24 Nov 2019 9:23:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@197cdb1
+24 Nov 2019 9:23:55 GMT:  Kind = WARNING
+24 Nov 2019 9:23:55 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:37:49 GMT: diagnostics = javax.tools.DiagnosticCollector@b87202
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1670c65
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:37:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1882ef8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:37:49 GMT: Compiler call returned
+24 Nov 2019 9:37:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d953dd
+24 Nov 2019 9:37:49 GMT:  Kind = WARNING
+24 Nov 2019 9:37:49 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+24 Nov 2019 9:37:59 GMT: diagnostics = javax.tools.DiagnosticCollector@12b5740
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@191afb1
+fileObjects = [E:\cse221\lab\lab1\CreateGraph.java, E:\cse221\lab\lab3\BFS.java, E:\cse221\lab\lab9\KnapSack.java]
+24 Nov 2019 9:37:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4e668d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\cse221\lab\lab1;E:\cse221\lab\lab3;E:\cse221\lab\lab9;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+24 Nov 2019 9:37:59 GMT: Compiler call returned
+24 Nov 2019 9:37:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@251e21
+24 Nov 2019 9:37:59 GMT:  Kind = WARNING
+24 Nov 2019 9:37:59 GMT: Name = E:\cse221\lab\lab1\CreateGraph.java LineNo = 36 ColNo = 7 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
